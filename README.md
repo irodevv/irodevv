@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Salut+!+je+suis+llx404%3C3;Je+suis+un+jeune+dev+de+15+ans;Bienvenue+sur+mon+github" alt="Title"></img>
 </div>
 
-<hr>
+--- 
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llx404&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
