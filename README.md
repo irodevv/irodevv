@@ -1,7 +1,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/llx404?style=social"> &nbsp;&nbsp; <img alt="llx404 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Tien+Huynh+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Salut+!+je+suis+llx404%3C3;Je+suis+un+jeune+dev+de+15+ans;Bienvenue+sur+mon+github+!)](https://git.io/typing-svg" alt="Title"></img>
 </div>
 
 
