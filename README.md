@@ -11,8 +11,8 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=llx404&layout=compact&show_icon=true&theme=dark" alt="tienhuynh-tn-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=llx404&theme=dark&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=llx404&theme=dark"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=llx404&theme=react-dark&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=llx404&theme=react-dark"/>
 </div>
 
 
