@@ -1,7 +1,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/llx404?style=social"> &nbsp;&nbsp; <img alt="llx404 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Salut+!+je+suis+llx404%3C3;Je+suis+un+jeune+dev+de+15+ans;Bienvenue+sur+mon+github+!)](https://git.io/typing-svg" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Salut+!+je+suis+llx404%3C3;Je+suis+un+jeune+dev+de+15+ans;Bienvenue+sur+mon+github" alt="Title"></img>
 </div>
 
 
@@ -59,8 +59,4 @@
   &copy; 2021 Tien Huynh tienhuynh-tn
 </div>
 
-------
 
-Credit: [tienhuynh-tn](https://github.com/tienhuynh-tn)
-
-Last Edited on: 22/12/2021
