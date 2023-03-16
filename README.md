@@ -8,7 +8,7 @@
   <a href="https://github.com/zougataga">
     <img align="center" src="https://camo.githubusercontent.com/9491d83dd2f01711a6db1a935a6d9249994416687fa7408987aa063d37bcd57f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7a6f7567617461676126636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d6461726b" alt="My GitHub Stats" height="180px" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zougataga&amp;count_private=true&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;">
   </a>
-     <hr/>
-   <img src="https://i.pinimg.com/originals/4d/39/47/4d39476c3627185a382d08fc56afb636.gif" autplay>
+    
+
 
 </div>
